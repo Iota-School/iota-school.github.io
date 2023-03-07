@@ -2,9 +2,14 @@
 
 Iota is an organization focused on technical teaching, accessibility, and infrastructure development. Reach out to collaborate@iotaschool.com to partner with us on events, workshops, or grant projects, or [sign up for the Iota mailing list](https://iotaschool.com/subscribe) for updates.
 
+## Initiatives
+
+- [Astronomy Notebooks for All](https://github.com/Iota-School/notebooks-for-all) — In 2022-2023, [Space Telescope Science Institute](https://www.stsci.edu/) is working to make scientific outputs, and especially Jupyter notebooks, more accessible for people with disabilities. The project includes accessible infrastructure development, testing with affected communities, and events related to accessibility in STEM.
+- [DHRIFT](https://www.gc.cuny.edu/news/neh-grant-promotes-equity-digital-humanities) — The Graduate Center at the City University of New York is developing DHRIFT, infrastructure for technical teaching in the humanities. Iota will collaborate with [GCDI](https://gcdi.net/) on infrastructure and technical curriculum development for the initiative.
+
 ## Upcoming Events
 
-- [STScI Accessible Notebooks Hackathon](https://iota-school.github.io/accessibility_hackathon/) (March 10th) — Interested in authoring more accessible Jupyter Notebooks? Concerned about accessibility IN STEM? In this half-day hackathon hosted by [Space Telescope Science Institute](https://www.stsci.edu/), we'll discuss and apply some best practices for authoring accessible scientific notebooks.
+- [STScI Accessible Notebooks Hackathon](https://docs.google.com/presentation/d/1vt6fmvclckdIUJPPRv1FAaGFN2wgztuFqleL06datD4/edit) (March 10th) — Interested in authoring more accessible Jupyter Notebooks? Concerned about accessibility IN STEM? In this half-day hackathon hosted by [Space Telescope Science Institute](https://www.stsci.edu/), we'll discuss and apply some best practices for authoring accessible scientific notebooks.
 - [Day of Accessibility](https://iota-school.github.io/day_accessibility) (April 13th) — In this full-day event at Space Telescope HQ in Baltimore, we'll hear from experts using alt text, sonification, and scientific notebooks who are working to make STEM more accessible. Keynote by MacArthur Fellow [Joshua Miele](https://www.macfound.org/fellows/class-of-2021/joshua-miele#searchresults), creator of projects such as [YouDescribe](https://www.ski.org/project/youdescribe) and [Blind Arduino](https://www.ski.org/project/blind-arduino-project).
 - Making Accessible Research Papers a Reality — (April) — Patrick will speak at this half-day online forum centering academic researchers with disabilities that experience barriers to reading papers and other research outputs. Hosted by arXiv, it will be informative for people across the academic publishing pipeline. Together, we can chart a path towards fully accessible research papers, and leave with practical next steps for our own organizations.
 - [Notebooks for All: Accessibility in Jupyter Notebooks in 2023 at JupyterCon](https://cfp.jupytercon.com/2023/talk/review/YL7JQZNCQFAMSJC37UDVJLSMYX3VZNDZ) (May) — Jupyter Notebooks are a standard tool in data science and scientific research and are widely used to teach coding. Unfortunately, this important resource is currently difficult or impossible to use with assistive technologies such as screen readers. At this talk at JupyterCon 2023, members of the Astronomy Notebooks for All team will discuss the state of accessibility in Jupyter Notebooks and consider ways it might be improved.
@@ -22,6 +27,3 @@ Iota is an organization focused on technical teaching, accessibility, and infras
 - [Iota website](https://iotaschool.com/)
 - [Astronomy Notebooks for All project page](https://github.com/Iota-School/notebooks-for-all)
 - [Iota mailing list](https://iotaschool.com/subscribe)
-
-
-
